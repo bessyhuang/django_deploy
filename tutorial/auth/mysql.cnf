@@ -1,0 +1,6 @@
+[client]
+
+database = 'db_demo'
+user = 'testchia_test'
+password = 'testchia'
+default-character = 'utf8'
